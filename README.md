@@ -1,4 +1,4 @@
-# Awesome AI Agent Governance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Last Updated](https://img.shields.io/github/last-commit/Ejb503/awesome-ai-agent-governance)](https://github.com/Ejb503/awesome-ai-agent-governance/commits/main)
+# Awesome AI Agent Governance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Last Updated](https://img.shields.io/github/last-commit/systempromptio/awesome-ai-agent-governance)](https://github.com/systempromptio/awesome-ai-agent-governance/commits/main)
 
 > The definitive curated list of tools, frameworks, standards, and resources for governing AI agents in production.
 
@@ -251,4 +251,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Submissions must address runtime governa
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Ed Burton](https://github.com/Ejb503) has waived all copyright and related rights to this work.
+To the extent possible under law, [systemprompt.io](https://github.com/systempromptio) has waived all copyright and related rights to this work.
