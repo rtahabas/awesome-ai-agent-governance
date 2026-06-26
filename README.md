@@ -126,6 +126,7 @@ A governed agent runs with least-privilege tool access, an immutable audit trail
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability proxy. Request logging, cost tracking, caching, and rate limiting via a single proxy endpoint. Self-hostable.
 - [Weights and Biases Weave](https://wandb.ai/site/weave) - Tracing and evaluation for LLM applications with strong integrations for LangChain, LlamaIndex, OpenAI, and Anthropic.
 - [Portkey](https://portkey.ai/) - AI gateway with unified API for 250+ LLMs, request tracing, semantic caching, load balancing, and budget controls.
+- [Gatewards](https://gatewards.com) - Drop-in proxy that enforces per-agent spend caps, call limits, and loop detection in the request path before the call fires. Non-custodial; includes a cross-agent dedup cache to cut redundant external API costs.
 - [Evidently AI](https://www.evidentlyai.com/) - Open-source ML and LLM monitoring. Detects data and model drift, generates monitoring reports, and evaluates LLM output quality.
 - [WhyLabs AI Observatory](https://whylabs.ai/) - AI observability platform monitoring LLM applications for drift, data quality issues, and policy violations in production.
 
